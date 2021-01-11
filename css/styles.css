@@ -1,8 +1,8 @@
 body{
   background-color: #fde8cd
 }
-h1{
-  color: #374045;
+h1:hover{
+  color: #30475e;
   font-size: 100px;
   text-align: center;
   font-family: fantasy;
@@ -28,5 +28,23 @@ hr{
     height: 0px;
     width: 60%;
 
+
+}
+.broccoli {
+  background-color: #74c7b8;
+}
+.bacon{
+  position: relative;
+  left: 600px;
+}
+
+#heading{
+  color: #374045;
+  font-size: 100px;
+  text-align: center;
+  font-family: fantasy;
+}
+img:hover{
+  background-color: #ff884b;
 
 }
